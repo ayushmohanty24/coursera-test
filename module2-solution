@@ -1,1 +1,37 @@
-
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Assignment solution for module 2</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1>Mathematicians</h1>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <section class="newton">
+                    <h2>Isaac Newton</h2>
+                    <p>
+                        Sir Isaac Newton PRS (25 December 1642 – 20 March 1726/27[a]) was an English mathematician, physicist, astronomer, theologian, and author (described in his own day as a "natural philosopher") who is widely recognised as one of the most influential scientists of all time and as a key figure in the scientific revolution. His book Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), first  
+                    </p>
+                </section>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="Euclid">
+                <h2>Euclid</h2>
+                <p>
+                    Euclid (/ˈjuːklɪd/; Ancient Greek: Εὐκλείδης – Eukleídēs, pronounced [eu̯.kleː.dɛːs]; fl. 300 BC), sometimes called Euclid of Alexandria[1] to distinguish him from Euclid of Megara, was a Greek mathematician, often referred to as the "founder of geometry"[1] or the "father of geometry". He was active in Alexandria during the reign of Ptolemy I (323–283 BC). His Elements is one of the most influential works in the history of mathematics,[
+                </p>
+                </section>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <section class="Euler">
+                    <h2>Euler</h2>
+                    <p>Leonhard Euler (/ˈɔɪlər/ OY-lər;[2] German: [ˈɔʏlɐ] (About this soundlisten)[3]; 15 April 1707 – 18 September 1783) was a Swiss mathematician, physicist, astronomer, geographer, logician and engineer who made important and influential discoveries in many branches of mathematics, such as infinitesimal calculus and graph theory, while also making pioneering contributions to several branches 
+                    </p>
+                </section>
+            </div>
+        </div>    
+    </body>
+</html>
